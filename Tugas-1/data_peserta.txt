@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Indah Oktaviana
+2. Email: indahoktav02@gmail.com
+3. Sistem Operasi yang digunakan: Linux Mint
+4. Akun Gitlab/Github: oktvindh
+5. Akun Telegram: @oktvindh
